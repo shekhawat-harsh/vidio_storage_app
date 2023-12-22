@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "812009017286",
+    "firebase_url": "https://enter-21ee1-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "project_id": "enter-21ee1",
+    "storage_bucket": "enter-21ee1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812009017286:android:aa207d2d108b980c13ecc7",
+        "android_client_info": {
+          "package_name": "com.example.enter_video_storage_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn0qoCkxhfFTgGB01_yBI6C1VAa4BDP60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
